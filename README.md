@@ -1,0 +1,1 @@
+# Lamira-Scanner# Lamira-Scanner This script was created with love for Lamira. Use it only for the sake of Allah.This script was created for educational purposes. Any illegal use of it will expose you to legal accountability.
