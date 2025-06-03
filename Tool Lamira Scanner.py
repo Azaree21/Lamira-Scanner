@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Lamira Scanner - Advanced Network Reconnaissance Tool
-Developed by @Black_on2
-Telegram channel: https://t.me/codepyAcademy
-"""
 import socket
 import concurrent.futures
 import sys
